@@ -1,5 +1,5 @@
 # Hi there ! 👋
-I'm Antoine, french developper manking fancy websites for a communication agency located in Troyes, France.
+I'm Antoine, french developper making fancy websites for a communication agency located in Troyes, France.
 
 ## My favourite technologies :
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -8,7 +8,7 @@ I'm Antoine, french developper manking fancy websites for a communication agency
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## I'm also worling with :
+## I'm also working with :
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
