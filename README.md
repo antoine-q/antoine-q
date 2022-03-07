@@ -1,5 +1,6 @@
 # Hi there ! 👋
-** I'm Antoine, french developper making fancy websites for a communication agency located in Troyes, France. **
+**I'm Antoine, french developper making fancy websites for a communication agency located in Troyes, France.**
+
 
 ## :hammer_and_wrench: Here are some languages a tools I use 
 
