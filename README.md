@@ -13,6 +13,9 @@
 
 ### :hammer_and_wrench: Here are some languages a tools I use 
 
+
+
+
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
@@ -33,11 +36,13 @@
 
 ### :electric_plug: Connect with me
 
+
 <div class="badges">
     <a href="https://www.linkedin.com/in/antoine-queru-483442172/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </div>
+
 
 ### Support
 
