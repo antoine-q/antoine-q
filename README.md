@@ -5,14 +5,13 @@
 </h1>
 </div>
 
----
 
 ### :computer: About me
 
 **I'm Antoine, french developper making fancy websites for a communication agency located in Troyes, France.**
 
 
-## :hammer_and_wrench: Here are some languages a tools I use 
+### :hammer_and_wrench: Here are some languages a tools I use 
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -32,7 +31,7 @@
   </div>
 
 
-## Connect With me
+### Connect With me
 
 <div class="badges">
     <a href="https://www.linkedin.com/in/antoine-queru-483442172/">
