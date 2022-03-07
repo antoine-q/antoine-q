@@ -8,7 +8,7 @@
 
 ### :computer: About me
 
-**I'm Antoine, french developper making fancy websites for a communication agency located in Troyes, France.**
+**I'm Antoine, french developper making websites for a communication agency located in Troyes, France.**
 
 
 ### :hammer_and_wrench: Here are some languages a tools I use 
@@ -31,7 +31,7 @@
   </div>
 
 
-### Connect With me
+### :electric_plug: Connect with me
 
 <div class="badges">
     <a href="https://www.linkedin.com/in/antoine-queru-483442172/">
