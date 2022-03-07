@@ -1,4 +1,15 @@
-# Hi there ! 👋
+<div class="header" align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Antoine Queru French Developper">
+
+    <h1>Hi there !
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </h1>
+</div>
+
+---
+
+### :computer: About me
+
 **I'm Antoine, french developper making fancy websites for a communication agency located in Troyes, France.**
 
 
