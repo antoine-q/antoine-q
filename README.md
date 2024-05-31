@@ -8,7 +8,7 @@
 
 ### :computer: About me
 
-**I'm Antoine, french developper making websites for a communication agency located in Troyes, France.**
+**I'm Antoine, french developper located in Troyes, France.**
 
 
 ### :hammer_and_wrench: Here are some languages a tools I use 
